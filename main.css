@@ -1,0 +1,23 @@
+header {
+  background-color: #AD9BAA;
+  color: black;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: #297373;
+  color: black;
+}
+
+main {
+  flex: 1 0 auto;
+  background-color: #65E7E2;
+  color: black;
+}
+
+footer {
+  background-color: #627264;
+  color: white;
+}
